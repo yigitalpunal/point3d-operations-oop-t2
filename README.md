@@ -22,7 +22,6 @@ This task involves creating a `Point3D` class that represents a point in 3D spac
 
 ## How to Compile and Run
 
-```bash
 g++ main.cpp -o point3d
 ./point3d
 

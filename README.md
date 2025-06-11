@@ -1,6 +1,5 @@
 ## 📁 Task 2 – Point3D
 
-```markdown
 # Task 2 – Point3D Class in C++
 
 ## Description
